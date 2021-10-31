@@ -1,5 +1,4 @@
-# Aishwarya
-Website blocker
+
 """ Website Blocker
 ----------------------------------------
 """
